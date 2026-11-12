@@ -1,16 +1,19 @@
-## Hi there 👋
+# Julia | Senior Android Developer
 
-<!--
-**lullichka/lullichka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android engineer specializing in Kotlin and native application development.
 
-Here are some ideas to get you started:
+### Technical Focus
+- Kotlin, Jetpack Compose
+- Android architecture and modularization
+- Coroutines, Flow and asynchronous programming
+- ExoPlayer / Android Media
+- Performance investigation and debugging
+- Production application reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Building Pills Helper, a native Android application.
+- Exploring Android platform internals and system architecture.
+- Deepening expertise in media playback architecture and performance.
+
+### Selected Projects
+Coming soon.
